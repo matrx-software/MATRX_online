@@ -1,5 +1,7 @@
 # MATRX online 
 
+Dockerized version of MATRX. 
+
 Host MATRX experiments online, such that users can perform your experiment from a Corona-approved distance.
 
 
