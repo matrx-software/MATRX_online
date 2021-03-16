@@ -11,11 +11,8 @@ Host MATRX experiments online, such that users can perform your experiment from 
 
 # Issues: 
 - Fix ports for multiple containers 
-- Fix startscreen.js hardcoded 127.0.0.1 url
 - Fix kubernetes setup which automatically scales and starts up new instances with port routing if needed
 - Fix that users can start the script themselves (start button?)
 - Security key before starting experiment?
 
-# Lower priority issues issues 
-- Cache images in frontend ? 
 
