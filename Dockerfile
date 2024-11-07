@@ -1,7 +1,8 @@
-# Use the official image as a parent image.
-FROM python:3.7
+# Author : Tjalling Haije "info@matrx-software.com"
+# Last updated: 7-11-2024
 
-MAINTAINER Tjalling Haije "info@matrx-software.com"
+# Use the official image as a parent image.
+FROM python:3.11
 
 #RUN apk --no-cache add lapack libstdc++ && apk --no-cache add --virtual .builddeps g++ gcc gfortran musl-dev lapack-dev && pip install scipy && apk del .builddeps && rm -rf /root/.cache
 
